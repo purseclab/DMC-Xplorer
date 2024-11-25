@@ -3,7 +3,7 @@
 //also give refresh token for user for voice command API
 
 var globalRefreshTokens = [{token: "", clientID: "", clientSecret: ""}] //array of objects, one for each skill containing refresh token, client ID of skill and client secret of skill
-//Example: [{token: "Atzr|abcd", clientID: "amzn1.application-oa2-client.e582ec497d5745f6b7a7c427e813eb03", clientSecret: "08fd2a70e..." }]
+//Example: [{token: "Atzr|abcd", clientID: "amzn1.application...", clientSecret: "08fd2a70e..." }]
 
 const https = require('https')
 // var query = require('cli-interact').getYesNo;
