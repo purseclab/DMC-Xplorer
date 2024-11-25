@@ -2,7 +2,7 @@
 //tester must give skill refresh tokens, and the names of audiofiles to be sent to alexa
 //also give refresh token for user for voice command API
 
-var globalRefreshTokens = [{token: "Atzr|IwEBIKg36_U1AAh1kMFMFUHiRDivvfgIBofs7GUMsVJ18axqqNUcrCI7EixmVPVtYVXLN3xx7nvbPUWamHJjr_9wv2-hIoZ1L4snXdY6HmQ0lRPzLPy0T5PN_-qsG9QNNHsHjopBoYZgRbmscJco7l_X-sZgHKqnhAcQhq_uA29XXdAZW8aC6FlEAgtJnjP3XiAmEcFQh10vvaai7z-8jqtBm4qH393USKTOHKfND2oy-ORlGSdAkVHQtCDMZa7cMn_i1p7HgfSKD0I72QAbx-jeSdr-", clientID: "amzn1.application-oa2-client.ae4579aa2a10481b814c3a81efeb12c8", clientSecret: "7e5fcc59a72f90995473275deea7dfd9dd13811d251c8b99f854942edc083e96"}] //array of objects, one for each skill containing refresh token, client ID of skill and client secret of skill
+var globalRefreshTokens = [{token: "", clientID: "", clientSecret: ""}] //array of objects, one for each skill containing refresh token, client ID of skill and client secret of skill
 //Example: [{token: "Atzr|abcd", clientID: "amzn1.application-oa2-client.e582ec497d5745f6b7a7c427e813eb03", clientSecret: "08fd2a70e..." }]
 
 const https = require('https')
