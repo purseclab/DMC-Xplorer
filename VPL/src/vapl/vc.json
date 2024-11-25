@@ -1,0 +1,52 @@
+{
+    "Voice Command": {
+        "0": {
+            "command": "Alexa, Dim the lights in the kitchen to 10",
+            "timestamp": "2021:10:01:21:04:00",
+            "device-id": 0,
+            "va-id": 0
+        },
+        "1": {
+            "command": "Alexa, Brighten the lights in the kitchen to 45",
+            "timestamp": "2021:10:01:21:05:00",
+            "device-id": 0,
+            "va-id": 0
+        },
+        "2": {
+            "command": "Alexa, Turn on the lights in the kitchen",
+            "timestamp": "2021:10:01:21:07:00",
+            "device-id": 0,
+            "va-id": 0
+        },
+        "3": {
+            "command": "Alexa, Dim the lights in the kitchen to 10",
+            "timestamp": "2021:10:01:21:04:00",
+            "device-id": 0,
+            "va-id": 0
+        },
+        "4": {
+            "command": "Hey Google, Turn off the lights in the living room",
+            "timestamp": "2021:10:01:21:08:00",
+            "device-id": 1,
+            "va-id": 1
+        },
+        "5": {
+            "command": "Hey Google, Brighten the lights in the living room to 90",
+            "timestamp": "2021:10:01:21:10:00",
+            "device-id": 1,
+            "va-id": 1
+        },
+        "6": {
+            "command": "Hey Google, Turn off the lights in the living room",
+            "timestamp": "2021:10:01:21:08:00",
+            "device-id": 1,
+            "va-id": 1
+        },
+        "7": {
+            "command": "Hey Google, Brighten the lights in the living room to 85",
+            "timestamp": "2021:10:01:21:10:00",
+            "device-id": 1,
+            "va-id": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "VA": {
+        "alexa1": {
+            "name": "alexa1",
+            "type": "alexa",
+            "deviceType": "echo",
+            "location": "livingRoom",
+            "userId": "user1",
+            "id": 0
+        },
+        "alexa2": {
+            "name": "alexa2",
+            "type": "alexa",
+            "deviceType": "echo",
+            "location": "livingRoom",
+            "userId": "user1",
+            "id": 1
+        }
+    }
+}

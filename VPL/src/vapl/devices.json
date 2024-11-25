@@ -1,0 +1,20 @@
+{
+    "Smart Home Device": {
+        "light1": {
+            "Device-Name": "light1",
+            "Device-Type": "light",
+            "Device-Location": "kitchen",
+            "Device-Manufacturer": "default",
+            "Device-ID": 0,
+            "Device-ConnectedVA": 0
+        },
+        "light2": {
+            "Device-Name": "light2",
+            "Device-Type": "light",
+            "Device-Location": "living room",
+            "Device-Manufacturer": "default",
+            "Device-ID": 1,
+            "Device-ConnectedVA": 1
+        }
+    }
+}

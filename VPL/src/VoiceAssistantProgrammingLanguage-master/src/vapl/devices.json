@@ -1,0 +1,36 @@
+{
+    "SmartHomeDevice": {
+        "light1": {
+            "deviceName": "light1",
+            "deviceType": "light",
+            "deviceLocation": "kitchen",
+            "deviceManufacturer": "default",
+            "deviceID": 0,
+            "deviceConnectedVA": 0
+        },
+        "light2": {
+            "deviceName": "light2",
+            "deviceType": "light",
+            "deviceLocation": "room",
+            "deviceManufacturer": "default",
+            "deviceID": 1,
+            "deviceConnectedVA": 0
+        },
+        "light3": {
+            "deviceName": "light3",
+            "deviceType": "light",
+            "deviceLocation": "bathroom",
+            "deviceManufacturer": "default",
+            "deviceID": 2,
+            "deviceConnectedVA": 0
+        },
+        "tv4": {
+            "deviceName": "tv4",
+            "deviceType": "television",
+            "deviceLocation": "bathroom",
+            "deviceManufacturer": "default",
+            "deviceID": 3,
+            "deviceConnectedVA": 0
+        }
+    }
+}

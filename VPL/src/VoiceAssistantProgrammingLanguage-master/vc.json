@@ -1,0 +1,46 @@
+{
+    "VoiceCommand": {
+        "0": {
+            "command": "Alexa, Dim the lights in the kitchen to 10",
+            "timestamp": "2021:10:01:21:04:00",
+            "deviceID": 0,
+            "vaID": 0
+        },
+        "1": {
+            "command": "Alexa, Brighten the lights in the kitchen to 30",
+            "timestamp": "2021:10:01:21:05:00",
+            "deviceID": 0,
+            "vaID": 0
+        },
+        "2": {
+            "command": "Alexa, Turn on the lights in the kitchen",
+            "timestamp": "2021:10:01:21:07:00",
+            "deviceID": 0,
+            "vaID": 0
+        },
+        "3": {
+            "command": "Alexa, Dim the lights in the kitchen to 10",
+            "timestamp": "2021:10:01:21:04:00",
+            "deviceID": 0,
+            "vaID": 0
+        },
+        "4": {
+            "command": "Alexa, Turn off the television in the living room",
+            "timestamp": "2021:10:01:21:08:00",
+            "deviceID": 1,
+            "vaID": 0
+        },
+        "5": {
+            "command": "Alexa, Turn off the television in the living room",
+            "timestamp": "2021:10:01:21:08:00",
+            "deviceID": 1,
+            "vaID": 0
+        },
+        "6": {
+            "command": "Alexa, Turn off the television in the living room",
+            "timestamp": "2021:10:01:21:08:00",
+            "deviceID": 1,
+            "vaID": 0
+        }
+    }
+}

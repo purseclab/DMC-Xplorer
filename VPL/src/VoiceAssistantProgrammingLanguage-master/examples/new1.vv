@@ -1,0 +1,8 @@
+va1=va("alexa", "echo", "livingRoom", "user1")
+light1=light("kitchen", va1) 
+setup1=setup(va1,1000,2)
+list=[dim@10, brighten, switchOff]
+
+list2=[light1@list]
+
+setup1.generate(setup1@list2)

@@ -1,0 +1,28 @@
+{
+    "VoiceCommand": {
+        "0": {
+            "command": "Alexa, Dim the lights in the kitchen to 10",
+            "timestamp": "2021:10:01:21:04:00",
+            "deviceID": 0,
+            "vaID": 0
+        },
+        "1": {
+            "command": "Alexa, Turn off the lights in the room",
+            "timestamp": "2021:10:01:21:08:00",
+            "deviceID": 1,
+            "vaID": 0
+        },
+        "2": {
+            "command": "Alexa, Turn off the lights in the bathroom",
+            "timestamp": "2021:10:01:21:11:00",
+            "deviceID": 2,
+            "vaID": 0
+        },
+        "3": {
+            "command": "Alexa, Turn off the television in the bathroom",
+            "timestamp": "2021:10:01:21:15:00",
+            "deviceID": 3,
+            "vaID": 0
+        }
+    }
+}
