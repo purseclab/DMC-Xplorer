@@ -2,8 +2,9 @@
 //tester must give skill refresh tokens, and the names of audiofiles to be sent to alexa
 //also give refresh token for user for voice command API
 
-var globalRefreshTokens = [{token: "", clientID: "", clientSecret: ""}] //array of objects, one for each skill containing refresh token, client ID of skill and client secret of skill
-//Example: [{token: "Atzr|abcd", clientID: "amzn1.application...", clientSecret: "08fd2a70e..." }]
+//comment out the following line when running the code after you fill with your tokens, secrets. 
+//var globalRefreshTokens = [{token: "", clientID: "", clientSecret: ""}] //array of objects, one for each skill containing refresh token, client ID of skill and client secret of skill
+//Example: [{token: "Atzr|abcd", clientID: "amzn1.application...", clientSecret: "..." }]
 
 const https = require('https')
 // var query = require('cli-interact').getYesNo;
